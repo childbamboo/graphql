@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Appendix
+
+* https://naochael-jordan.github.io/blog/2018-11-02-graphql-rails-first-query/
